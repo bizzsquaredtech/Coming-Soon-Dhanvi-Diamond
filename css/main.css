@@ -69,24 +69,24 @@
   --t-opp-bright--light: #ffffff;
   --t-opp-default--light: #f2f2f2;
   --t-opp-muted--light: #c2bfd1;
-  /* dark color scheme */
-  --base--dark: #090516;
-  --base-inner--dark: #121226;
-  --accent--dark: #6b57ff;
-  --accent-rgb--dark: 107, 87, 255;
-  --secondary--dark: #b1e82d;
-  --deviders--dark: #3a3745;
-  --strokes--dark: #565560;
-  --hover-fill--dark: #262235;
-  --transparent-bg--dark: rgba(9, 5, 22, 0.3);
-  --t-bright--dark: #ffffff;
-  --t-default--dark: #f2f2f2;
-  --t-muted--dark: #c2bfd1;
-  --t-muted-rgb--dark: 194, 191, 209;
-  --t-placeholders--dark: #838093;
-  --t-opp-bright--dark: #111111;
-  --t-opp-default--dark: #2b2b2b;
-  --t-opp-muted--dark: #4c4c4c;
+  /* light color scheme */
+  --base--light: #fac5c2;
+  --base-inner--light: #fac5c2;
+  --accent--light: #649dcb;
+  --accent-rgb--light:#fac5c2;
+  --secondary--light: #fac5c2;
+  --deviders--light: #fac5c2;
+  --strokes--light: #fac5c2;
+  --hover-fill--light: #fac5c2;
+  --transparent-bg--light: rgba(9, 5, 22, 0.9);
+  --t-bright--light: #111111;
+  --t-default--light: #2b2b2b;
+  --t-muted--light: #4c4c4c;
+  --t-muted-rgb--light: 76, 76, 76;
+  --t-placeholders--light: #7b7a82;
+  --t-opp-bright--light: #ffffff;
+  --t-opp-default--light: #f2f2f2;
+  --t-opp-muted--light: #c2bfd1;
   /* permanent colors */
   --per-base: #130e28;
   --per-base-rgb: 19, 14, 40;
