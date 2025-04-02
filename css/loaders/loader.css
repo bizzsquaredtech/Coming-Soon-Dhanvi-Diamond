@@ -255,3 +255,22 @@
 /* ------------------------------------------------*/
 /* Loader Styles End */
 /* ------------------------------------------------*/
+.socials-circles {
+  display: flex;
+  justify-content: center; /* center horizontally */
+  align-items: center;     /* center vertically (if needed) */
+  gap: 10px;               /* spacing between icons */
+  padding: 0;
+  list-style: none;
+}
+
+.socials-circles li a.btn-round {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;   /* Adjust size as needed */
+  height: 40px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 18px; /* Adjust icon size */
+}

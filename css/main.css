@@ -212,11 +212,11 @@
 }
 
 .inner-image-2 {
-  background-image: url("./demo2.jpg");
+  background-image: url("./demo3.jpg");
 }
 
 .showreel-image-1 {
-  background-image: url("https://dummyimage.com/1500x1000/4d4d4d/636363");
+  background-image: url(".img\premioabout.jpg");
 }
 
 /* ------------------------------------------------*/
@@ -1999,13 +1999,13 @@ form textarea:required:valid {
 .menu-trigger {
   position: absolute;
   top: 0;
-  right: 12rem;
+  /* right: 12rem; */
 }
 @media only screen and (min-width: 768px) {
   .menu-trigger {
     position: absolute;
     top: 0;
-    right: 16rem;
+    /* right: 16rem; */
   }
 }
 @media only screen and (min-width: 1200px) {
